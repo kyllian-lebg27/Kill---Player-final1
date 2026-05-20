@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTUwNjM3ODMyOTU0MzAyMDYwNA.GYeGWR.TvKFg9ZOI5dzyBTr7YQoFrAK8s0ex6P6gjIYSs",
   language: "fr",
   ownerID: ["1390122526251946005", ""], 
   mongodbUri : "mongodb+srv://ruscicakyllian_db_user:<db_password>@killplayer.zzhstia.mongodb.net/?appName=KillPlayer",
