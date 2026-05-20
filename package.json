@@ -1,6 +1,9 @@
 {
   "name": "prime-music",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  }
   "version": "1.4",
   "description": "Advanced Lavalink Music Bot",
   "main": "index.js",
