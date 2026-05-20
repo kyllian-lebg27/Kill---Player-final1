@@ -2,7 +2,7 @@
   "name": "prime-music",
   "private": true,
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "version": "1.4",
   "description": "Advanced Lavalink Music Bot",
